@@ -1,49 +1,67 @@
-[{
-  "id": "1",
-  "createdAt": "5 months ago",
-  "title": "Build a Realtime Chat App in React Native (tutorial for beginners) 🔴  ",
-  "thumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/thumbnails/thumbnail1.jpeg",
-  "videoUrl": "",
-  "duration": 384,
-  "user": {
-    "name": "Vadim Savin",
-    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/vadim.jpg"
+[
+  {
+    "id": "1",
+    "createdAt": "1 day ago",
+    "title": "Virtual Job Fair #3 | Teddy Burriss - Learn How to Use LinkedIn as a Career Transition Tool",
+    "thumbnail": "https://i.ytimg.com/an_webp/iubjqvaqZHM/mqdefault_6s.webp?du=3000&sqp=CL-3yooG&rs=AOn4CLAss1oW1ztK6TW8XJMO_d_X68Nl3Q",
+    "videoUrl": "",
+    "duration": 3840,
+    "user": {
+      "name": "Reskill Americans",
+      "image": "https://yt3.ggpht.com/ytc/AKedOLR14vjVBR6TQ5p05QHfZyH0IywWFDeH0MZ2CaT1=s176-c-k-c0x00ffffff-no-rj"
+    },
+    "views": 15
   },
-  "views": 357000
-}, {
-  "id": "2",
-  "createdAt": "2 months ago",
-  "title": "🔴 Build the Uber clone in React Native (Tutorial for Beginners)",
-  "thumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/thumbnails/thumbnail2.jpeg",
-  "videoUrl": "",
-  "duration": 584,
-  "user": {
-    "name": "Vadim Savin",
-    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/vadim.jpg"
+  {
+    "id": "2",
+    "createdAt": "6 days ago",
+    "title": "Coding Challenge #4 | String Manipulation in Javascript",
+    "thumbnail": "https://i.ytimg.com/an_webp/BXD2hjpkd8I/mqdefault_6s.webp?du=3000&sqp=CIqsyooG&rs=AOn4CLD-1mjvPxsG0g94EcSJ0tt6xvBPmg",
+    "videoUrl": "",
+    "duration": 3505,
+    "user": {
+      "name": "Reskill Americans",
+      "image": "https://yt3.ggpht.com/ytc/AKedOLR14vjVBR6TQ5p05QHfZyH0IywWFDeH0MZ2CaT1=s176-c-k-c0x00ffffff-no-rj"
+    },
+    "views": 38
   },
-  "views": 257000
-}, {
-  "id": "3",
-  "createdAt": "2 months ago",
-  "title": "How Graham Stephan makes $4,578,896.32 a year on YouTube",
-  "thumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/thumbnails/thumbnail3.jpeg",
-  "videoUrl": "",
-  "duration": 584,
-  "user": {
-    "name": "Graham Stephan",
-    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/graham.jpg"
+  {
+    "id": "3",
+    "createdAt": "Streamed 1 week ago",
+    "title": "Virtual Job Fair #2 | Marina Nitze- Small Business and Entrepreneurship",
+    "thumbnail": "https://i.ytimg.com/an_webp/S1F4ihlSzqU/mqdefault_6s.webp?du=3000&sqp=CJydyooG&rs=AOn4CLAJmplaDa-KCsioIAFaYyzGMeiaxQ",
+    "videoUrl": "",
+    "duration": 3671,
+    "user": {
+      "name": "Reskill Americans",
+      "image": "https://yt3.ggpht.com/ytc/AKedOLR14vjVBR6TQ5p05QHfZyH0IywWFDeH0MZ2CaT1=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "views": 90
   },
-  "views": 257000
-}, {
-  "id": "3",
-  "createdAt": "2 months ago",
-  "title": "My One Month Bitcoin Mining Journey",
-  "thumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/thumbnails/thumbnail4.jpeg",
-  "videoUrl": "",
-  "duration": 584,
-  "user": {
-    "name": "Biahaze",
-    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/biahaze.jpg"
+  {
+    "id": "4",
+    "createdAt": "Streamed 1 week ago",
+    "title": "Technical Interview Training | David Fowler - Software Architect | Microsoft",
+    "thumbnail": "https://i.ytimg.com/an_webp/nCtPz2LdDyc/mqdefault_6s.webp?du=3000&sqp=CM3FyooG&rs=AOn4CLAiDt90I0j1OV3vEJ5HK4o0BkBIjA",
+    "videoUrl": "",
+    "duration": 4051,
+    "user": {
+      "name": "Reskill Americans",
+      "image": "https://yt3.ggpht.com/ytc/AKedOLR14vjVBR6TQ5p05QHfZyH0IywWFDeH0MZ2CaT1=s176-c-k-c0x00ffffff-no-rj"
+    },
+    "views": 110
   },
-  "views": 257000
-}]
+  {
+    "id": "5",
+    "createdAt": "Streamed 2 weeks ago",
+    "title": "Reskill Americans Town Hall #21 | Danielle Storlie",
+    "thumbnail": "https://i.ytimg.com/an_webp/-yuW6_6ghkE/mqdefault_6s.webp?du=3000&sqp=CJDHyooG&rs=AOn4CLBxlfmd3X8L571jsyltDVGJlduAMQ",
+    "videoUrl": "",
+    "duration": 3985,
+    "user": {
+      "name": "Reskill Americans",
+      "image": "https://yt3.ggpht.com/ytc/AKedOLR14vjVBR6TQ5p05QHfZyH0IywWFDeH0MZ2CaT1=s176-c-k-c0x00ffffff-no-rj"
+    },
+    "views": 109
+  }
+]
