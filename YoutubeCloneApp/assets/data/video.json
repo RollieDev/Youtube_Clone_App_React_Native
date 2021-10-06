@@ -1,16 +1,15 @@
 {
   "id": "1",
-  "createdAt": "5 months ago",
-  "title": "Build a Realtime Chat App in React Native (tutorial for beginners) 🔴  ",
-  "thumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/thumbnails/thumbnail1.jpeg",
-  "videoUrl": "",
-  "duration": 384,
-  "user": {
-    "name": "Vadim Savin",
-    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/vadim.jpg"
-  },
-  "views": 357000,
-  "tags": "#VadimSavin #notjust #notJustDeveloper",
-  "likes": 3759,
-  "dislikes": 53
+    "createdAt": "1 day ago",
+    "title": "Virtual Job Fair #3 | Teddy Burriss - Learn How to Use LinkedIn as a Career Transition Tool",
+    "thumbnail": "https://i.ytimg.com/an_webp/iubjqvaqZHM/mqdefault_6s.webp?du=3000&sqp=CL-3yooG&rs=AOn4CLAss1oW1ztK6TW8XJMO_d_X68Nl3Q",
+    "videoUrl": "",
+    "duration": 3840,
+    "user": {
+      "name": "Reskill Americans",
+      "image": "https://yt3.ggpht.com/ytc/AKedOLR14vjVBR6TQ5p05QHfZyH0IywWFDeH0MZ2CaT1=s176-c-k-c0x00ffffff-no-rj"
+    },
+    "views": 15,
+    "likes": 11,
+    "dislikes": 0
 }
