@@ -4,13 +4,14 @@ const styles = StyleSheet.create({
     videoPlayer: {
         width: '100%',
         aspectRatio: 16/9,
+        paddingTop: 15,
     },
     videoInfoContainer: {
         margin: 10,
     },
     title: {
         color: 'white',
-        fontSize: 18,
+        fontSize: 16,
         fontWeight: '500',
         marginVertical: 10,
     },
@@ -22,18 +23,25 @@ const styles = StyleSheet.create({
 
     //Action List
     actionListContainer: {
-        flexDirection: 'row',
+        marginVertical: 10,
+         
     },
     actionListItem: {
         width: 70,
         height: 60,
         justifyContent: 'space-around',
         alignItems: 'center',
-        backgroundColor: 'red',
     },
 
     actionText: {
         color: 'white', 
+    },
+
+    //user
+    avatar: {
+        width: 50,
+        height: 50,
+        borderRadius: 25,
     }
 });
 
