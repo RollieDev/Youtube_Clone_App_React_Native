@@ -1,5 +1,6 @@
-import React from 'react'
-import { View, Text, Image, SafeAreaView, ScrollView, FlatList } from 'react-native'
+import React, { useRef } from 'react'
+import { View, Text, Image, SafeAreaView, ScrollView, FlatList, Pressable } from 'react-native'
+import BottomSheet from '@gorhom/bottom-sheet';
 import styles from './styles';
 import { AntDesign, Entypo, MaterialCommunityIcons } from '@expo/vector-icons';
 import VideoListItem from '../../components/VideoListItem';
@@ -8,11 +9,20 @@ import VideoPlayer from '../../components/VideoPlayer';
 import video from '../../assets/data/video.json';
 import videos from '../../assets/data/videos.json'
 
+
 const VideoScreen = () => {
+
+    const commentsSheetRef = useRef<BottomSheet>(null);
+
+    const openComments = () => {
+      commentsSheetRef.current?.expand();  
+    }
+
+
     return (
         <View style={{ paddingTop: 30, backgroundColor: '#141414', flex: 1 }}>
             {/* Video Player */}
-            <VideoPlayer  videoURI={video.videoUrl} thumbnailURI={video.thumbnail}/>
+            <VideoPlayer videoURI={video.videoUrl} thumbnailURI={video.thumbnail} />
 
             {/* Video Info */}
 
@@ -72,18 +82,16 @@ const VideoScreen = () => {
 
 
             {/* Comments */}
-            <View style={{ padding: 10, marginVertical: 10 }}>
+            <Pressable onPress={openComments} style={{ padding: 10, marginVertical: 10 }}>
                 <Text style={{ color: 'white' }}>Comments 2</Text>
+            </Pressable>
 
-                {/* Comment Component */}
-                <View style={{ flexDirection: 'row', alignItems: 'center', marginVertical: 10 }}>
-                    <Image style={{ width: 35, height: 35, borderRadius: 20 }} source={{ uri: 'https://yt3.ggpht.com/ytc/AKedOLSbEMQPyNa2c4Qrnis38l-hw4s6ROM4PCAYAQ_DgkQ=s88-c-k-c0x00ffffff-no-rj' }} />
+            {/*All Comments*/}
+            <BottomSheet ref={commentsSheetRef} snapPoints={['58%']} enablePanDownToClose={true} >
+                <Text>'Yessir!'</Text>
+            </BottomSheet>
 
 
-                    <Text style={{ color: 'white', marginLeft: 10 }}>Thanks everyone for the engaging conversations.</Text>
-
-                </View>
-            </View>
         </View>
     )
 };
