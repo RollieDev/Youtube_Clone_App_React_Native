@@ -1,6 +1,22 @@
 [
   {
     "id": "1",
+      "createdAt": "6 days ago",
+      "title": "Resume Best Practices | Training Session with Teddy Burriss- Career Coach",
+      "thumbnail": "https://i.ytimg.com/vi/vy-nd8m6M88/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUjAxmVoXs3dF8DyX9UcIamTfgZg",
+      "videoUrl": "",
+      "duration": 3840,
+      "user": {
+        "name": "Reskill Americans",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLR14vjVBR6TQ5p05QHfZyH0IywWFDeH0MZ2CaT1=s176-c-k-c0x00ffffff-no-rj",
+        "subscribers": 851
+      },
+      "views": 15 ,
+      "likes": 11,
+      "dislikes": 0
+  },
+  {
+    "id": "2",
     "createdAt": "Streamed live on Sep 27, 2021",
     "title": "Virtual Job Fair #3 | Teddy Burriss - Learn How to Use LinkedIn as a Career Transition Tool",
     "thumbnail": "https://i.ytimg.com/an_webp/Pdvy3Qinxgw/mqdefault_6s.webp?du=3000&sqp=CLzot4sG&rs=AOn4CLCRNsY5RdCGVU9jgVCy44VECQEswA",
@@ -13,7 +29,7 @@
     "views": 138 
   },
   {
-    "id": "2",
+    "id": "3",
     "createdAt": "3 weeks ago",
     "title": "Coding Challenge #4 | String Manipulation in Javascript",
     "thumbnail": "https://i.ytimg.com/an_webp/BXD2hjpkd8I/mqdefault_6s.webp?du=3000&sqp=CJKeuIsG&rs=AOn4CLDWiYQHtzKcpJ7GLcafwU17XDREmw",
@@ -26,7 +42,7 @@
     "views": 38
   },
   {
-    "id": "3",
+    "id": "4",
     "createdAt": "Streamed 1 month ago",
     "title": "Virtual Job Fair #2 | Marina Nitze- Small Business and Entrepreneurship",
     "thumbnail": "https://i.ytimg.com/an_webp/S1F4ihlSzqU/mqdefault_6s.webp?du=3000&sqp=CLj7t4sG&rs=AOn4CLCJIAO2YcHwhIJeeu9rOurH-GKxxQ",
@@ -39,7 +55,7 @@
     "views": 90
   },
   {
-    "id": "4",
+    "id": "5",
     "createdAt": "Streamed 1 month ago",
     "title": "Technical Interview Training | David Fowler - Software Architect | Microsoft",
     "thumbnail": "https://i.ytimg.com/an_webp/nCtPz2LdDyc/mqdefault_6s.webp?du=3000&sqp=CKKGuIsG&rs=AOn4CLDTUfLHrGmNsWhZxHBMOedKeadvPA",
@@ -52,7 +68,7 @@
     "views": 110
   },
   {
-    "id": "5",
+    "id": "6",
     "createdAt": "Streamed 1 month ago",
     "title": "Reskill Americans Town Hall #21 | Danielle Storlie",
     "thumbnail": "https://i.ytimg.com/an_webp/-yuW6_6ghkE/mqdefault_6s.webp?du=3000&sqp=CMy3uIsG&rs=AOn4CLAShC65ikfL-iPeO4kOvs-gmdiaHQ",
