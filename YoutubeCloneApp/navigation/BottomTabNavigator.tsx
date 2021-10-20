@@ -7,4 +7,4 @@ import Colors from '../constants/Colors'
 import useColorScheme from "../hooks/useColorScheme";
 import HomeScreen from "../screens/HomeScreen";
 import TabTwoScreen from "../screens/TabTwoScreen";
-// import [BottomtabParamList, TaboneParamList, TabTwoParamList} from '../types';
+ import {TabOneParamList} from '../types';
