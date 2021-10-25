@@ -1,7 +1,23 @@
 [
   {
     "id": "1",
-      "createdAt": "6 days ago",
+      "createdAt": "Streamed live on Oct 21, 2021",
+      "title": "Virtual Job Fair #5 | HBO Max - 100 Open Positions NOW! | Noreli Garcia Valentin and Charles Cox",
+      "thumbnail": "https://i.ytimg.com/an_webp/5sMY4HgPtW0/mqdefault_6s.webp?du=3000&sqp=CInr2IsG&rs=AOn4CLBwklMwXJgPmI234nvi56hd-RGqtw",
+      "videoUrl": "",
+      "duration": 3840,
+      "user": {
+        "name": "Reskill Americans",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLR14vjVBR6TQ5p05QHfZyH0IywWFDeH0MZ2CaT1=s176-c-k-c0x00ffffff-no-rj",
+        "subscribers": 851
+      },
+      "views": 129 ,
+      "likes": 11,
+      "dislikes": 0
+  },
+  {
+    "id": "2",
+      "createdAt": "1 week ago",
       "title": "Resume Best Practices | Training Session with Teddy Burriss- Career Coach",
       "thumbnail": "https://i.ytimg.com/vi/vy-nd8m6M88/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUjAxmVoXs3dF8DyX9UcIamTfgZg",
       "videoUrl": "",
@@ -11,12 +27,12 @@
         "image": "https://yt3.ggpht.com/ytc/AKedOLR14vjVBR6TQ5p05QHfZyH0IywWFDeH0MZ2CaT1=s176-c-k-c0x00ffffff-no-rj",
         "subscribers": 851
       },
-      "views": 15 ,
-      "likes": 11,
-      "dislikes": 0
+      "views": 77 ,
+      "likes": 3,
+      "dislikes": 1
   },
   {
-    "id": "2",
+    "id": "3",
     "createdAt": "Streamed live on Sep 27, 2021",
     "title": "Virtual Job Fair #3 | Teddy Burriss - Learn How to Use LinkedIn as a Career Transition Tool",
     "thumbnail": "https://i.ytimg.com/an_webp/Pdvy3Qinxgw/mqdefault_6s.webp?du=3000&sqp=CLzot4sG&rs=AOn4CLCRNsY5RdCGVU9jgVCy44VECQEswA",
@@ -26,10 +42,13 @@
       "name": "Reskill Americans",
       "image": "https://yt3.ggpht.com/ytc/AKedOLR14vjVBR6TQ5p05QHfZyH0IywWFDeH0MZ2CaT1=s176-c-k-c0x00ffffff-no-rj"
     },
-    "views": 138 
+    "views": 143,
+    "likes": 12,
+    "dislikes": 0
+
   },
   {
-    "id": "3",
+    "id": "4",
     "createdAt": "3 weeks ago",
     "title": "Coding Challenge #4 | String Manipulation in Javascript",
     "thumbnail": "https://i.ytimg.com/an_webp/BXD2hjpkd8I/mqdefault_6s.webp?du=3000&sqp=CJKeuIsG&rs=AOn4CLDWiYQHtzKcpJ7GLcafwU17XDREmw",
@@ -39,11 +58,13 @@
       "name": "Reskill Americans",
       "image": "https://yt3.ggpht.com/ytc/AKedOLR14vjVBR6TQ5p05QHfZyH0IywWFDeH0MZ2CaT1=s176-c-k-c0x00ffffff-no-rj"
     },
-    "views": 38
+    "views": 69,
+    "likes": 4,
+    "dislikes": 0
   },
   {
-    "id": "4",
-    "createdAt": "Streamed 1 month ago",
+    "id": "5",
+    "createdAt": "Streamed live on Sep 14, 2021",
     "title": "Virtual Job Fair #2 | Marina Nitze- Small Business and Entrepreneurship",
     "thumbnail": "https://i.ytimg.com/an_webp/S1F4ihlSzqU/mqdefault_6s.webp?du=3000&sqp=CLj7t4sG&rs=AOn4CLCJIAO2YcHwhIJeeu9rOurH-GKxxQ",
     "videoUrl": "",
@@ -52,11 +73,13 @@
       "name": "Reskill Americans",
       "image": "https://yt3.ggpht.com/ytc/AKedOLR14vjVBR6TQ5p05QHfZyH0IywWFDeH0MZ2CaT1=s88-c-k-c0x00ffffff-no-rj"
     },
-    "views": 90
+    "views": 98,
+    "likes": 6,
+    "dislikes": 0
   },
   {
-    "id": "5",
-    "createdAt": "Streamed 1 month ago",
+    "id": "6",
+    "createdAt": "Streamed live on Sep 14, 2021",
     "title": "Technical Interview Training | David Fowler - Software Architect | Microsoft",
     "thumbnail": "https://i.ytimg.com/an_webp/nCtPz2LdDyc/mqdefault_6s.webp?du=3000&sqp=CKKGuIsG&rs=AOn4CLDTUfLHrGmNsWhZxHBMOedKeadvPA",
     "videoUrl": "",
@@ -65,11 +88,14 @@
       "name": "Reskill Americans",
       "image": "https://yt3.ggpht.com/ytc/AKedOLR14vjVBR6TQ5p05QHfZyH0IywWFDeH0MZ2CaT1=s176-c-k-c0x00ffffff-no-rj"
     },
-    "views": 110
+    "views": 134,
+    "likes": 9,
+    "dislikes": 0
+
   },
   {
-    "id": "6",
-    "createdAt": "Streamed 1 month ago",
+    "id": "7",
+    "createdAt": "Streamed live on Sep 13, 2021",
     "title": "Reskill Americans Town Hall #21 | Danielle Storlie",
     "thumbnail": "https://i.ytimg.com/an_webp/-yuW6_6ghkE/mqdefault_6s.webp?du=3000&sqp=CMy3uIsG&rs=AOn4CLAShC65ikfL-iPeO4kOvs-gmdiaHQ",
     "videoUrl": "",
@@ -78,6 +104,69 @@
       "name": "Reskill Americans",
       "image": "https://yt3.ggpht.com/ytc/AKedOLR14vjVBR6TQ5p05QHfZyH0IywWFDeH0MZ2CaT1=s176-c-k-c0x00ffffff-no-rj"
     },
-    "views": 109
+    "views": 122,
+    "likes": 6,
+    "dislikes": 0
+  },
+  {
+    "id": "8",
+    "createdAt": "1 month ago",
+    "title": "Coding Challenge #3 | Longest Substring Without Repeating Characters",
+    "thumbnail": "https://i.ytimg.com/an_webp/-yuW6_6ghkE/mqdefault_6s.webp?du=3000&sqp=CMy3uIsG&rs=AOn4CLAShC65ikfL-iPeO4kOvs-gmdiaHQ",
+    "videoUrl": "",
+    "duration": 3158,
+    "user": {
+      "name": "Reskill Americans",
+      "image": "https://yt3.ggpht.com/ytc/AKedOLR14vjVBR6TQ5p05QHfZyH0IywWFDeH0MZ2CaT1=s176-c-k-c0x00ffffff-no-rj"
+    },
+    "views": 31,
+    "likes": 4,
+    "dislikes": 0
+  },
+  {
+    "id": "9",
+    "createdAt": "1 month ago",
+    "title": "Coding Challenge #2 | Two Sum",
+    "thumbnail": "https://i.ytimg.com/an_webp/b9ahOiieV20/mqdefault_6s.webp?du=3000&sqp=CIfM2IsG&rs=AOn4CLCCELHf47oMTWzLK6FjwoonVQuaZA",
+    "videoUrl": "",
+    "duration": 3034,
+    "user": {
+      "name": "Reskill Americans",
+      "image": "https://yt3.ggpht.com/ytc/AKedOLR14vjVBR6TQ5p05QHfZyH0IywWFDeH0MZ2CaT1=s176-c-k-c0x00ffffff-no-rj"
+    },
+    "views": 40,
+    "likes": 3,
+    "dislikes": 0
+  },
+  {
+    "id": "10",
+    "createdAt": "1 month ago",
+    "title": "Coding Challenges with Pam | Isograms",
+    "thumbnail": "https://i.ytimg.com/vi/zzK1MiUnXvE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4wAatjE-oDnD0_8jVDIuuBQwGoQ",
+    "videoUrl": "",
+    "duration": 4030,
+    "user": {
+      "name": "Reskill Americans",
+      "image": "https://yt3.ggpht.com/ytc/AKedOLR14vjVBR6TQ5p05QHfZyH0IywWFDeH0MZ2CaT1=s176-c-k-c0x00ffffff-no-rj"
+    },
+    "views": 81,
+    "likes": 5,
+    "dislikes": 0
+  },
+  {
+    "id": "11",
+    "createdAt": "1 month ago",
+    "title": "Maze Generator | Reskill Americans Coding Challenge (JavaScript)",
+    "thumbnail": "https://i.ytimg.com/vi/DxZzcFASKlU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0zhOhlcZ-DX5KwQSvbjZtRkcqdA",
+    "videoUrl": "",
+    "duration": 4030,
+    "user": {
+      "name": "Reskill Americans",
+      "image": "https://yt3.ggpht.com/ytc/AKedOLR14vjVBR6TQ5p05QHfZyH0IywWFDeH0MZ2CaT1=s176-c-k-c0x00ffffff-no-rj"
+    },
+    "views": 86,
+    "likes": 2,
+    "dislikes": 0
   }
+
 ]
