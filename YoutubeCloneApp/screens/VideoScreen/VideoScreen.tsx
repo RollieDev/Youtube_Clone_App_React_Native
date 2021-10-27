@@ -42,29 +42,25 @@ const VideoScreen = () => {
                         </View>
 
                         <View style={styles.actionListItem}>
-                            <AntDesign name="dislike2" size={20} color="lightgrey" />
+                            <AntDesign name="dislike2" size={22} color="lightgrey" />
                             <Text style={styles.actionText}>{video.dislikes}</Text>
                         </View>
 
                         <View style={styles.actionListItem}>
-                            <AntDesign name="export" size={20} color="lightgrey" />
-                            <Text style={styles.actionText}>{video.dislikes}</Text>
+                            <AntDesign name="export" size={22} color="lightgrey" />
+                            <Text style={styles.actionText}>{video.export}</Text>
                         </View>
 
                         <View style={styles.actionListItem}>
-                            <AntDesign name="download" size={20} color="lightgrey" />
-                            <Text style={styles.actionText}>{video.dislikes}</Text>
+                            <AntDesign name="download" size={22} color="lightgrey" />
+                            <Text style={styles.actionText}>{video.download}</Text>
                         </View>
 
                         <View style={styles.actionListItem}>
-                            <MaterialCommunityIcons name="playlist-plus" size={20} color="lightgrey" />
-                            <Text style={styles.actionText}>{video.dislikes}</Text>
+                            <MaterialCommunityIcons name="playlist-plus" size={22} color="lightgrey" />
+                            <Text style={styles.actionText}>{video.saveTo}</Text>
                         </View>
 
-                        <View style={styles.actionListItem}>
-                            <MaterialCommunityIcons name="youtube-subscription" size={20} color="lightgrey" />
-                            <Text style={styles.actionText}>{video.dislikes}</Text>
-                        </View>
                     </ScrollView>
                 </View>
 
@@ -101,7 +97,7 @@ const VideoScreen = () => {
 
 const VideoScreenWithRecommendations = () => {
     return (
-        <SafeAreaView style={{ paddingTop: 30, backgroundColor: '#141414', flex: 1 }}>
+        <SafeAreaView style={{backgroundColor: '#141414', flex: 1 }}>
             <BottomSheetModalProvider><FlatList
                 data={videos}
                 renderItem={({ item }) => <VideoListItem video={item} />}
