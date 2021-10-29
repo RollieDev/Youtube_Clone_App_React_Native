@@ -18,6 +18,9 @@ Youtube Presentation Link: https://youtu.be/5g-7zIW4K5I
 * Functional video player 
 * Bottom sheet that views all comments on a video
 
+<img width="796" alt="Screen Shot 2021-10-29 at 2 22 27 AM" src="https://user-images.githubusercontent.com/59779281/139410697-48cf5885-05f8-4703-9fd1-38944b17a87c.png">
+
+
  
 # Set Up 
 
@@ -52,11 +55,6 @@ $ yarn start
 ### Run on Android device/emulator
 
 
-
-# Screen captures of each stage of the process.
-
-
-<img width="796" alt="Screen Shot 2021-10-29 at 2 22 27 AM" src="https://user-images.githubusercontent.com/59779281/139410697-48cf5885-05f8-4703-9fd1-38944b17a87c.png">
 
 
 
