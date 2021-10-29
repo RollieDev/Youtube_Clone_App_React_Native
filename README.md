@@ -9,7 +9,8 @@ Florence FridgeApp can assist in making our lives easier and more efficient. Thi
 Youtube Presentation Link: https://youtu.be/5g-7zIW4K5I
 
 
-![Florence_home](https://user-images.githubusercontent.com/62310329/129987335-dc632ad2-4162-4dc8-9cb8-87196a0dd759.png)
+<img width="798" alt="Screen Shot 2021-10-29 at 2 17 44 AM" src="https://user-images.githubusercontent.com/59779281/139410242-990ee1cb-b119-439d-b0ef-c77f0c052d6d.png">
+
 ![Florence_Fridge](https://user-images.githubusercontent.com/62310329/129987338-1561807f-b73a-4fe7-9a6e-fe80fc458fbc.png)
 
 
